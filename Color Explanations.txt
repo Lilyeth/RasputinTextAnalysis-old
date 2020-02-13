@@ -1,0 +1,5 @@
+Protocol = RED
+
+AI-COM = MAGENTA
+
+Connection Source = Blue
