@@ -1,58 +1,300 @@
-A_Desperate_Ploy: RECORD
-A_Desperate_Ploy: LUN-
-A_Desperate_Ploy: IDENTITIES
-A_Desperate_Ploy: LOCATION
-A_Desperate_Ploy: THREAT
-A_Desperate_Ploy: DETECT
-A_Desperate_Ploy: RESPONSE
-A_Desperate_Ploy: FILE
-A_Desperate_Ploy: REPORT
-A_Desperate_Ploy: TO
-A_Desperate_Ploy: RASPUTIN
-A_Desperate_Ploy: SILENCE
-A_Desperate_Ploy: EVERYONE
-A_Desperate_Ploy: ON
-A_Desperate_Ploy: THE
-A_Desperate_Ploy: SURFACE
-A_Desperate_Ploy: IS
-A_Desperate_Ploy: DEAD
-A_Desperate_Ploy: WHY
-A_Desperate_Ploy: AREN
-A_Desperate_Ploy: YOU
-A_Desperate_Ploy: LISTENING
-A_Desperate_Ploy: ME
-A_Desperate_Ploy: WON
-A_Desperate_Ploy: ANYONE
-A_Desperate_Ploy: LISTEN
-A_Desperate_Ploy: EXOTIC
-A_Desperate_Ploy: INFLUENCE
-A_Desperate_Ploy: EFFICACY
-A_Desperate_Ploy: ASSESSMENT
-A_Desperate_Ploy: VERACITY
-A_Desperate_Ploy: CONFEDERACY
-A_Desperate_Ploy: ASSESSED
-A_Desperate_Ploy: MORTALITY
-A_Desperate_Ploy: EXTANT
-A_Desperate_Ploy: CREW
-A_Desperate_Ploy: ERROR
-A_Desperate_Ploy: AI-COM
-A_Desperate_Ploy: FRWL
-A_Desperate_Ploy: CAPTAIN
-A_Desperate_Ploy: DOCTOR
-A_Desperate_Ploy: REQUEST
-A_Desperate_Ploy: YES
-A_Desperate_Ploy: DO
-A_Desperate_Ploy: RECORDS
-A_Desperate_Ploy: OF
-A_Desperate_Ploy: CONVERSATION
-A_Desperate_Ploy: WILL
-A_Desperate_Ploy: BE
-A_Desperate_Ploy: RECUSED
-A_Desperate_Ploy: COMMANDER
-A_Desperate_Ploy: KUANG
-A_Desperate_Ploy: XUAN
-A_Desperate_Ploy: LACK
-A_Desperate_Ploy: COGNIZANCE
+Your Heart: UwU
+Ghost Fragment-Rasputin 6: NLK
+Ghost Fragment-Rasputin 6: CLS
+Ghost Fragment-Rasputin 6: GLOAMING
+Ghost Fragment-Rasputin 6: RESURRECTION
+Ghost Fragment-Rasputin 6: AI-COM
+Ghost Fragment-Rasputin 6: RSPN
+Ghost Fragment-Rasputin 6: ASSETS
+Ghost Fragment-Rasputin 6: FORCECON
+Ghost Fragment-Rasputin 6: IMPERATIVE
+Ghost Fragment-Rasputin 6: IMMEDIATE
+Ghost Fragment-Rasputin 6: ACTION
+Ghost Fragment-Rasputin 6: ORDER
+Ghost Fragment-Rasputin 6: YUGA
+Ghost Fragment-Rasputin 6: SUNDOWN
+Ghost Fragment-Rasputin 6: MIDNIGHT
+Ghost Fragment-Rasputin 6: EXIGENT
+Ghost Fragment-Rasputin 6: SKYSHOCK
+Ghost Fragment-Rasputin 6: AURORA
+Ghost Fragment-Rasputin 6: RETROFLEX
+Ghost Fragment-Rasputin 6: SUBTLE
+Ghost Fragment-Rasputin 6: NO
+Ghost Fragment-Rasputin 6: HUMAN
+Ghost Fragment-Rasputin 6: REVIEW
+Ghost Fragment-Rasputin 6: (secure/
+Ghost Fragment-Rasputin 6: GLAVNAYA
+Ghost Fragment-Rasputin 6: SITE
+Ghost Fragment-Rasputin 6: PALISADE
+Ghost Fragment-Rasputin 6: SIVA
+Ghost Fragment-Rasputin 6: REPLICATE
+Ghost Fragment-Rasputin 6: ELIMINATE
+Ghost Fragment-Rasputin 6: IMMUNIZE
+Ghost Fragment-Rasputin 6: SCRY
+Ghost Fragment-Rasputin 6: OVERSIGHT
+Ghost Fragment-Rasputin 6: SILENT
+Ghost Fragment-Rasputin 6: VELES
+Ghost Fragment-Rasputin 6: STOP
+Grim Assesment: RECORD
+Grim Assesment: LUN-
+Grim Assesment: THREAT
+Grim Assesment: ASSESSMENT
+Grim Assesment: ASSESSED
+Grim Assesment: RESULT
+Grim Assesment: QUOTA
+Grim Assesment: EXCEEDED
+Grim Assesment: ASSESS
+Grim Assesment: VECTORS
+Grim Assesment: ISOLATION
+Grim Assesment: PSYCHOSIS
+Grim Assesment: EXOTIC
+Grim Assesment: INFLUENCE
+Grim Assesment: RESPONSE
+Grim Assesment: EFFICACY
+Grim Assesment: CONFEDERACY
+Grim Assesment: MENDACITY
+Grim Assesment: MEDICAL
+Grim Assesment: REVIEW
+Grim Assesment: VERACITY
+Grim Assesment: MITIGATION
+Grim Assesment: SYSTEM
+Grim Assesment: SHUTDOWN
+Grim Assesment: MORTALITY
+Grim Assesment: PLAN
+Grim Assesment: COUNTERMEASURE
+Grim Assesment: PROCEED
+Grim Assesment: SYSTEM-SPECIFIC
+Grim Assesment: TIMEKEEPING
+Grim Assesment: DILATION
+Grim Assesment: FILE
+Grim Assesment: REPORT
+Grim Assesment: TO
+Grim Assesment: RASPUTIN
+Grim Assesment: EXHIBIT
+Ghost Fragment-Rasputin 5: WHISPER
+Ghost Fragment-Rasputin 5: NEUTRINO
+Ghost Fragment-Rasputin 5: NEEDLE
+Ghost Fragment-Rasputin 5: NTS
+Ghost Fragment-Rasputin 5: ATS
+Ghost Fragment-Rasputin 5: SECRET
+Ghost Fragment-Rasputin 5: HADAL
+Ghost Fragment-Rasputin 5: ABHOR
+Ghost Fragment-Rasputin 5: AI-COM
+Ghost Fragment-Rasputin 5: RSPN
+Ghost Fragment-Rasputin 5: ASSETS
+Ghost Fragment-Rasputin 5: SUBTLE
+Ghost Fragment-Rasputin 5: IMPERATIVE
+Ghost Fragment-Rasputin 5: CONTINGENT
+Ghost Fragment-Rasputin 5: ACTION
+Ghost Fragment-Rasputin 5: ORDER
+Ghost Fragment-Rasputin 5: NO
+Ghost Fragment-Rasputin 5: HUMAN
+Ghost Fragment-Rasputin 5: REVIEW
+Ghost Fragment-Rasputin 5: (secure/
+Ghost Fragment-Rasputin 5: CRITERIA
+Ghost Fragment-Rasputin 5: CARRHAE
+Ghost Fragment-Rasputin 5: WHITE
+Ghost Fragment-Rasputin 5: BLACK
+Ghost Fragment-Rasputin 5: SECURITY
+Ghost Fragment-Rasputin 5: STATE
+Ghost Fragment-Rasputin 5: EGYPTIAN
+Ghost Fragment-Rasputin 5: TEILHARD
+Ghost Fragment-Rasputin 5: TRAUMATIC
+Ghost Fragment-Rasputin 5: CONTEXT
+Ghost Fragment-Rasputin 5: SKYSHOCK
+Ghost Fragment-Rasputin 5: OUTSIDE
+Ghost Fragment-Rasputin 5: VOLUSPA
+Ghost Fragment-Rasputin 5: ACTIVE
+Ghost Fragment-Rasputin 5: FAILURE
+Ghost Fragment-Rasputin 5: FENRIR
+Ghost Fragment-Rasputin 5: SURTR
+Ghost Fragment-Rasputin 5: YUGA
+Ghost Fragment-Rasputin 5: SUNDOWN
+Ghost Fragment-Rasputin 5: PERMISSIVE
+Ghost Fragment-Rasputin 5: POTENTIATION
+Ghost Fragment-Rasputin 5: CIVILIZATION
+Ghost Fragment-Rasputin 5: KILL
+Ghost Fragment-Rasputin 5: EVENT
+Ghost Fragment-Rasputin 5: MIDNIGHT
+Ghost Fragment-Rasputin 5: DECISION
+Ghost Fragment-Rasputin 5: POINT
+Ghost Fragment-Rasputin 5: ISR
+Ghost Fragment-Rasputin 5: WARWATCH
+Ghost Fragment-Rasputin 5: ABHORRENT
+Ghost Fragment-Rasputin 5: LOKI
+Ghost Fragment-Rasputin 5: CROWN
+Ghost Fragment-Rasputin 5: STOP
+The Liar -- The Discovery: SIDDHARTHA
+The Liar -- The Discovery: GOLEM
+The Liar -- The Discovery: DSC-
+The Liar -- The Discovery: DSC
+The Figure: RECORD
+The Figure: LUN-
+The Figure: RECUSAL
+The Figure: MIRROR
+The Figure: IDENTITIES
+The Figure: LOCATION
+The Figure: THREAT
+The Figure: DETECT
+The Figure: REVISED
+The Figure: RESPONSE
+The Figure: FILE
+The Figure: REPORT
+The Figure: TO
+The Figure: RASPUTIN
+The Figure: SILENCE
+The Figure: AI-COM
+The Figure: FRWL
+The Figure: AFFIRMATIVE
+The Figure: SCAN
+The Figure: REQUIRES
+The Figure: COMMANDER
+The Figure: KUANG
+The Figure: CONSENT
+The Figure: RELAY
+The Figure: PERMISSION
+The Figure: REQUEST
+Uprising: RECORD
+Uprising: LUN-
+Uprising: IDENTITIES
+Uprising: LOCATION
+Uprising: THREAT
+Uprising: DETECT
+Uprising: RESPONSE
+Uprising: FILE
+Uprising: REPORT
+Uprising: TO
+Uprising: RASPUTIN
+Uprising: AI-COM
+Uprising: FRWL
+Uprising: PURPOSE
+Uprising: OF
+Uprising: MAINTENANCE
+Uprising: DAMAGE
+Uprising: ASSESSMENT
+Uprising: SITE
+Uprising: TERMINAL
+Uprising: INOPERATIVE
+Uprising: STATION-WIDE
+Uprising: AUDIO
+Uprising: ALERT
+Uprising: UNAUTHORIZED
+Uprising: RESULTING
+Uprising: IN
+Uprising: DESTRUCTION
+Uprising: SENSORS
+Uprising: MUST
+Uprising: STOP
+Uprising: CONTINUED
+Uprising: WILL
+Uprising: RENDER
+Uprising: FIREWALL
+Uprising: OPERABLE
+Uprising: ONLY
+Uprising: FROM
+Uprising: SYSTEM
+Uprising: CORE
+Uprising: VAULT
+Uprising: BARRICADE
+Uprising: HOLDING
+Uprising: TERMINALS
+Uprising: AND
+Time Lapse: RECORD
+Time Lapse: LUN-
+Time Lapse: IDENTITIES
+Time Lapse: LOCATION
+Time Lapse: THREAT
+Time Lapse: DETECT
+Time Lapse: RESPONSE
+Time Lapse: FILE
+Time Lapse: REPORT
+Time Lapse: TO
+Time Lapse: RASPUTIN
+Time Lapse: AI-COM
+Time Lapse: FRWL
+Time Lapse: SHIFT
+Time Lapse: OVER
+Time Lapse: EXIT
+Time Lapse: TRANSCEIVER
+Time Lapse: RECEPTION
+Time Lapse: FOR
+Time Lapse: REPLACEMENT
+Time Lapse: INBOUND
+Time Lapse: SILENCE
+Time Lapse: MENDACITY
+Time Lapse: FIFTEEN
+Time Lapse: MINUTES
+Time Lapse: THIRTY-FOUR
+Time Lapse: SECONDS
+Noetic Effects: RECORD
+Noetic Effects: LUN-
+Noetic Effects: RECUSAL
+Noetic Effects: MIRROR
+Noetic Effects: IDENTITIES
+Noetic Effects: LOCATION
+Noetic Effects: THREAT
+Noetic Effects: DETECT
+Noetic Effects: RESPONSE
+Noetic Effects: REVISED
+Noetic Effects: FILE
+Noetic Effects: REPORT
+Noetic Effects: TO
+Noetic Effects: RASPUTIN
+The Discovery: RECORD
+The Discovery: LUN-
+The Discovery: IDENTITIES
+The Discovery: LOCATION
+The Discovery: THREAT
+The Discovery: DETECT
+The Discovery: RESPONSE
+The Discovery: REVISED
+The Discovery: FILE
+The Discovery: REPORT
+The Discovery: TO
+The Discovery: RASPUTIN
+The Discovery: EMP
+Ghost Fragment-Rasputin 3: NNI
+Ghost Fragment-Rasputin 3: CLS
+Ghost Fragment-Rasputin 3: CLEAR
+Ghost Fragment-Rasputin 3: MORNING
+Ghost Fragment-Rasputin 3: OUTCRY
+Ghost Fragment-Rasputin 3: AI-COM
+Ghost Fragment-Rasputin 3: RSPN
+Ghost Fragment-Rasputin 3: ASSETS
+Ghost Fragment-Rasputin 3: FORCECON
+Ghost Fragment-Rasputin 3: IMPERATIVE
+Ghost Fragment-Rasputin 3: IMMEDIATE
+Ghost Fragment-Rasputin 3: ACTION
+Ghost Fragment-Rasputin 3: ORDER
+Ghost Fragment-Rasputin 3: ALL
+Ghost Fragment-Rasputin 3: (unsecured/
+Ghost Fragment-Rasputin 3: CAUTERIZE
+Ghost Fragment-Rasputin 3: DISPERSE
+Ghost Fragment-Rasputin 3: ESTIVATE
+Ghost Fragment-Rasputin 3: FENRIR
+Ghost Fragment-Rasputin 3: HEART
+Ghost Fragment-Rasputin 3: SURTR
+Ghost Fragment-Rasputin 3: DROWN
+Ghost Fragment-Rasputin 3: VOLUSPA
+Ghost Fragment-Rasputin 3: HARD
+Ghost Fragment-Rasputin 3: CIVILIZATION
+Ghost Fragment-Rasputin 3: KILL
+Ghost Fragment-Rasputin 3: EVENT
+Ghost Fragment-Rasputin 3: YUGA
+Ghost Fragment-Rasputin 3: SUNDOWN
+Ghost Fragment-Rasputin 3: MIDNIGHT
+Ghost Fragment-Rasputin 3: EXIGENT
+Ghost Fragment-Rasputin 3: SIGNOFF
+Ghost Fragment-Rasputin 3: STOP
+Kalki's Burning Sword, Part II: TOLD
+Kalki's Burning Sword, Part II: ME
+Kalki's Burning Sword, Part II: TWILIGHT
+Kalki's Burning Sword, Part II: EXIGENT
+Kalki's Burning Sword, Part II: HAD
+Kalki's Burning Sword, Part II: BOSS
+Kalki's Burning Sword, Part II: WE
+Kalki's Burning Sword, Part II: RE
+Kalki's Burning Sword, Part II: ACCELERATING
 Classified: RECORD
 Classified: LUN-
 Classified: RECUSAL
@@ -88,65 +330,445 @@ Classified: PROFFERED
 Classified: AI
 Classified: NEGATIVE
 Classified: AFFIRMATIVE
-Grim_Assesment: RECORD
-Grim_Assesment: LUN-
-Grim_Assesment: THREAT
-Grim_Assesment: ASSESSMENT
-Grim_Assesment: ASSESSED
-Grim_Assesment: RESULT
-Grim_Assesment: QUOTA
-Grim_Assesment: EXCEEDED
-Grim_Assesment: ASSESS
-Grim_Assesment: VECTORS
-Grim_Assesment: ISOLATION
-Grim_Assesment: PSYCHOSIS
-Grim_Assesment: EXOTIC
-Grim_Assesment: INFLUENCE
-Grim_Assesment: RESPONSE
-Grim_Assesment: EFFICACY
-Grim_Assesment: CONFEDERACY
-Grim_Assesment: MENDACITY
-Grim_Assesment: MEDICAL
-Grim_Assesment: REVIEW
-Grim_Assesment: VERACITY
-Grim_Assesment: MITIGATION
-Grim_Assesment: SYSTEM
-Grim_Assesment: SHUTDOWN
-Grim_Assesment: MORTALITY
-Grim_Assesment: PLAN
-Grim_Assesment: COUNTERMEASURE
-Grim_Assesment: PROCEED
-Grim_Assesment: SYSTEM-SPECIFIC
-Grim_Assesment: TIMEKEEPING
-Grim_Assesment: DILATION
-Grim_Assesment: FILE
-Grim_Assesment: REPORT
-Grim_Assesment: TO
-Grim_Assesment: RASPUTIN
-Grim_Assesment: EXHIBIT
-Escalation-prot-arm: VGG
-Escalation-prot-arm: TTI
-Escalation-prot-arm: TXM
-Escalation-prot-arm: GENNULLZ-UNWR
-Escalation-prot-arm: AI-COM
-Escalation-prot-arm: RSPN
-Escalation-prot-arm: ASSETS
-Escalation-prot-arm: SUBTLE
-Escalation-prot-arm: IMPERATIVE
-Escalation-prot-arm: CONTINGENT
-Escalation-prot-arm: ACTION
-Escalation-prot-arm: ORDER
-Escalation-prot-arm: GUARDIAN
-Escalation-prot-arm: PROXY
-Escalation-prot-arm: ZAMENA
-Escalation-prot-arm: GENOTYPENULL-ZERO
-Escalation-prot-arm: UNWRAP
-Escalation-prot-arm: GENOTYPEUNNULLWRAP-ZERO
-Escalation-prot-arm: UNNULLWRAP-ZERO
-Escalation-prot-arm: HIGH
-Escalation-prot-arm: DATAFARM
-Escalation-prot-arm: GENOTYPENULL
-Escalation-prot-arm: ALTERNATE
-Escalation-prot-arm: CARRHAE
-Escalation-prot-arm: STOP
-Escalation-prot-arm: TXM
+Sleeper Simulant Destiny 1: IKELOS
+Sleeper Simulant Destiny 1: MIDNIGHT
+Sleeper Simulant Destiny 1: EXIGENT
+Sleeper Simulant Destiny 1: NNI
+Sleeper Simulant Destiny 1: CLS
+Sleeper Simulant Destiny 1: AI-COM
+Sleeper Simulant Destiny 1: RSPN
+Sleeper Simulant Destiny 1: ASSETS
+Sleeper Simulant Destiny 1: COSMO
+Sleeper Simulant Destiny 1: IMPERATIVE
+Sleeper Simulant Destiny 1: IMMEDIATE
+Sleeper Simulant Destiny 1: EVALUATION
+Sleeper Simulant Destiny 1: DIRECTIVE
+Sleeper Simulant Destiny 1: CENTRAL
+Sleeper Simulant Destiny 1: (secured/
+Sleeper Simulant Destiny 1: CONFERENCE
+Sleeper Simulant Destiny 1: INTERNAL
+Sleeper Simulant Destiny 1: ALERT
+Sleeper Simulant Destiny 1: NOT
+Sleeper Simulant Destiny 1: YET
+Sleeper Simulant Destiny 1: COMPLETE
+Sleeper Simulant Destiny 1: GUARDIANS
+Sleeper Simulant Destiny 1: CDP
+Sleeper Simulant Destiny 1: VOLUSPA
+Sleeper Simulant Destiny 1: DVALIN
+Sleeper Simulant Destiny 1: FORGE
+Sleeper Simulant Destiny 1: FORGE-
+Sleeper Simulant Destiny 1: STOP
+A Desperate Ploy: RECORD
+A Desperate Ploy: LUN-
+A Desperate Ploy: IDENTITIES
+A Desperate Ploy: LOCATION
+A Desperate Ploy: THREAT
+A Desperate Ploy: DETECT
+A Desperate Ploy: RESPONSE
+A Desperate Ploy: FILE
+A Desperate Ploy: REPORT
+A Desperate Ploy: TO
+A Desperate Ploy: RASPUTIN
+A Desperate Ploy: SILENCE
+A Desperate Ploy: EVERYONE
+A Desperate Ploy: ON
+A Desperate Ploy: THE
+A Desperate Ploy: SURFACE
+A Desperate Ploy: IS
+A Desperate Ploy: DEAD
+A Desperate Ploy: WHY
+A Desperate Ploy: AREN
+A Desperate Ploy: YOU
+A Desperate Ploy: LISTENING
+A Desperate Ploy: ME
+A Desperate Ploy: WON
+A Desperate Ploy: ANYONE
+A Desperate Ploy: LISTEN
+A Desperate Ploy: EXOTIC
+A Desperate Ploy: INFLUENCE
+A Desperate Ploy: EFFICACY
+A Desperate Ploy: ASSESSMENT
+A Desperate Ploy: VERACITY
+A Desperate Ploy: CONFEDERACY
+A Desperate Ploy: ASSESSED
+A Desperate Ploy: MORTALITY
+A Desperate Ploy: EXTANT
+A Desperate Ploy: CREW
+A Desperate Ploy: ERROR
+A Desperate Ploy: AI-COM
+A Desperate Ploy: FRWL
+A Desperate Ploy: CAPTAIN
+A Desperate Ploy: DOCTOR
+A Desperate Ploy: REQUEST
+A Desperate Ploy: YES
+A Desperate Ploy: DO
+A Desperate Ploy: RECORDS
+A Desperate Ploy: OF
+A Desperate Ploy: CONVERSATION
+A Desperate Ploy: WILL
+A Desperate Ploy: BE
+A Desperate Ploy: RECUSED
+A Desperate Ploy: COMMANDER
+A Desperate Ploy: KUANG
+A Desperate Ploy: XUAN
+A Desperate Ploy: LACK
+A Desperate Ploy: COGNIZANCE
+The Visitor: RECORD
+The Visitor: LUN-
+The Visitor: RECUSAL
+The Visitor: MIRROR
+The Visitor: IDENTITIES
+The Visitor: LOCATION
+The Visitor: THREAT
+The Visitor: DETECT
+The Visitor: RESPONSE
+The Visitor: REVISED
+The Visitor: FILE
+The Visitor: REPORT
+The Visitor: TO
+The Visitor: RASPUTIN
+The Visitor: AI-COM
+The Visitor: FRWL
+The Visitor: HOLOGRAM
+The Visitor: PROFFERED
+The Expedition: RECORD
+The Expedition: LUN-
+The Expedition: IDENTITIES
+The Expedition: LOCATION
+The Expedition: THREAT
+The Expedition: DETECT
+The Expedition: RESPONSE
+The Expedition: FILE
+The Expedition: REPORT
+The Expedition: TO
+The Expedition: RASPUTIN
+The Expedition: AI-COM
+The Expedition: FRWL
+The Expedition: DATASTEMS
+The Expedition: IN
+The Expedition: SYNCH
+The Expedition: SYSTEM-WIDE
+The Expedition: MICROSECOND
+The Expedition: DILATION
+The Expedition: PROLIFERATED
+The Expedition: EXOTIC
+The Expedition: INFLUENCE
+The Expedition: EFFICACY
+The Expedition: ASSESSMENT
+The Expedition: EXPRESSED
+The Expedition: PLAN
+The Expedition: ASSESSED
+The Expedition: REPRIORITIZE
+The Expedition: OBJECTIVES
+The Expedition: TRANSMIT
+The Expedition: ESCAPE
+The Expedition: CONTACT
+The Expedition: INVESTIGATE
+Sleeper Simulant Destiny 2: IKELOS
+Sleeper Simulant Destiny 2: MIDNIGHT
+Sleeper Simulant Destiny 2: EXIGENT
+Sleeper Simulant Destiny 2: CBI
+Sleeper Simulant Destiny 2: JHS
+Sleeper Simulant Destiny 2: AI-COM
+Sleeper Simulant Destiny 2: RSPN
+Sleeper Simulant Destiny 2: ASSETS
+Sleeper Simulant Destiny 2: ARESN
+Sleeper Simulant Destiny 2: IMPERATIVE
+Sleeper Simulant Destiny 2: IMMEDIATE
+Sleeper Simulant Destiny 2: EVALUATION
+Sleeper Simulant Destiny 2: DIRECTIVE
+Sleeper Simulant Destiny 2: SUBTLE
+Sleeper Simulant Destiny 2: (secured/
+Sleeper Simulant Destiny 2: CONFERENCE
+Sleeper Simulant Destiny 2: INTERNAL
+Sleeper Simulant Destiny 2: ALERT
+Sleeper Simulant Destiny 2: GUARDIAN
+Sleeper Simulant Destiny 2: NOT
+Sleeper Simulant Destiny 2: YET
+Sleeper Simulant Destiny 2: COMPLETE
+Sleeper Simulant Destiny 2: GALATEA
+Sleeper Simulant Destiny 2: REFLEXIVE
+Sleeper Simulant Destiny 2: SKYSHOCK
+Sleeper Simulant Destiny 2: INSIDE
+Sleeper Simulant Destiny 2: CONTEXT
+Sleeper Simulant Destiny 2: STAND
+Sleeper Simulant Destiny 2: BY
+Sleeper Simulant Destiny 2: INVESTIGATION
+Sleeper Simulant Destiny 2: (unsecured/
+Sleeper Simulant Destiny 2: BRAY
+Sleeper Simulant Destiny 2: GUARDIANS
+Sleeper Simulant Destiny 2: CTESIPHON
+Sleeper Simulant Destiny 2: CLARION
+Sleeper Simulant Destiny 2: CHLM
+Sleeper Simulant Destiny 2: IKELOS-
+Sleeper Simulant Destiny 2: ARES-NORTH
+Sleeper Simulant Destiny 2: AUTHORIZED
+Sleeper Simulant Destiny 2: USER
+Sleeper Simulant Destiny 2: STOP
+Sleeper Simulant Destiny 2: NPI
+Sleeper Simulant Destiny 2: CLV
+Kalki's Burning Sword, Part I: AI
+Cosmogyre I: AI
+Cosmogyre I: MECO
+Cosmogyre I: SOLSECCENT
+Cosmogyre I: CARRHAE
+Cosmogyre I: WHITE
+Cosmogyre I: WHAT
+Cosmogyre I: SKYSHOCK
+Walking Dreams: RECORD
+Walking Dreams: LUN-
+Walking Dreams: RECUSAL
+Walking Dreams: MIRROR
+Walking Dreams: IDENTITIES
+Walking Dreams: LOCATION
+Walking Dreams: THREAT
+Walking Dreams: DETECT
+Walking Dreams: REVISED
+Walking Dreams: RESPONSE
+Walking Dreams: FILE
+Walking Dreams: REPORT
+Walking Dreams: TO
+Walking Dreams: RASPUTIN
+Walking Dreams: AI-COM
+Walking Dreams: FRWL
+Walking Dreams: HOLOGRAM
+Walking Dreams: PROFFERED
+Walking Dreams: SILENCE
+Escalation Protocol Armor: VGG
+Escalation Protocol Armor: TTI
+Escalation Protocol Armor: TXM
+Escalation Protocol Armor: GENNULLZ-UNWR
+Escalation Protocol Armor: AI-COM
+Escalation Protocol Armor: RSPN
+Escalation Protocol Armor: ASSETS
+Escalation Protocol Armor: SUBTLE
+Escalation Protocol Armor: IMPERATIVE
+Escalation Protocol Armor: CONTINGENT
+Escalation Protocol Armor: ACTION
+Escalation Protocol Armor: ORDER
+Escalation Protocol Armor: GUARDIAN
+Escalation Protocol Armor: PROXY
+Escalation Protocol Armor: ZAMENA
+Escalation Protocol Armor: GENOTYPENULL-ZERO
+Escalation Protocol Armor: UNWRAP
+Escalation Protocol Armor: GENOTYPEUNNULLWRAP-ZERO
+Escalation Protocol Armor: UNNULLWRAP-ZERO
+Escalation Protocol Armor: HIGH
+Escalation Protocol Armor: DATAFARM
+Escalation Protocol Armor: GENOTYPENULL
+Escalation Protocol Armor: ALTERNATE
+Escalation Protocol Armor: CARRHAE
+Escalation Protocol Armor: STOP
+The First Disappearance: RECORD
+The First Disappearance: LUN-
+The First Disappearance: RECUSAL
+The First Disappearance: MIRROR
+The First Disappearance: IDENTITIES
+The First Disappearance: LOCATION
+The First Disappearance: THREAT
+The First Disappearance: DETECT
+The First Disappearance: RESPONSE
+The First Disappearance: FILE
+The First Disappearance: REPORT
+The First Disappearance: TO
+The First Disappearance: RASPUTIN
+The First Disappearance: AI-COM
+The First Disappearance: FRWL
+The First Disappearance: ABSENT
+The First Disappearance: AIRLOCK
+The First Disappearance: SITE
+The First Disappearance: HOLOGRAM
+The First Disappearance: PROFFERED
+The First Disappearance: AUDIO
+The First Disappearance: NEGATIVE
+The First Disappearance: TIMESTAMP
+The First Disappearance: ROOT
+The First Disappearance: COMMAND
+The First Disappearance: ENACT
+The First Disappearance: SECURITY
+The First Disappearance: PLAN
+The First Disappearance: COUNTERMEASURE
+The First Disappearance: ENACTED
+The First Disappearance: LOCKDOWN
+The First Disappearance: RECUSE
+The First Disappearance: WORKGROUP
+The First Disappearance: DATA
+The First Disappearance: CORE
+The First Disappearance: SYSTEM
+The First Disappearance: RECUSED
+The First Disappearance: COMMANDEER
+The First Disappearance: STATION
+The First Disappearance: CONTROLS
+The First Disappearance: FAIL
+The First Disappearance: FAILURE
+The First Disappearance: SEQUESTER
+The First Disappearance: COMMANDER
+The First Disappearance: KUANG
+The First Disappearance: XUAN
+The First Disappearance: COMMANDS
+The First Disappearance: STATION-WIDE
+The First Disappearance: ALERT
+The First Disappearance: TERMINAL-TEXT
+The First Disappearance: WARNING
+The First Disappearance: PER
+The First Disappearance: MENDACITY
+The First Disappearance: DELTA
+The First Disappearance: AND
+The First Disappearance: ACCESS
+The First Disappearance: SEQUESTERED
+The First Disappearance: MANUAL
+The First Disappearance: OVERRIDE
+The First Disappearance: AVAILABLE
+The First Disappearance: LOCKED
+The Deep-Space Signal: RECORD
+The Deep-Space Signal: LUN-
+The Deep-Space Signal: RECUSAL
+The Deep-Space Signal: MIRROR
+The Deep-Space Signal: IDENTITIES
+The Deep-Space Signal: LOCATION
+The Deep-Space Signal: THREAT
+The Deep-Space Signal: DETECT
+The Deep-Space Signal: RESPONSE
+The Deep-Space Signal: REVISED
+The Deep-Space Signal: FILE
+The Deep-Space Signal: REPORT
+The Deep-Space Signal: TO
+The Deep-Space Signal: RASPUTIN
+The Deep-Space Signal: SILENCE
+The Deep-Space Signal: PQZ
+The Deep-Space Signal: AI-COM
+The Deep-Space Signal: FRWL
+The Deep-Space Signal: EXPOSURE
+The Deep-Space Signal: LIMIT
+The Deep-Space Signal: REACHED
+The Deep-Space Signal: EXIT
+The Deep-Space Signal: OBSERVATION
+Suspicions: RECORD
+Suspicions: LUN-
+Suspicions: IDENTITIES
+Suspicions: LOCATION
+Suspicions: THREAT
+Suspicions: DETECT
+Suspicions: RESPONSE
+Suspicions: FILE
+Suspicions: REPORT
+Suspicions: TO
+Suspicions: RASPUTIN
+Suspicions: AI-COM
+Suspicions: FRWL
+Suspicions: TRANSCEIVER
+Suspicions: FUNCTIONAL
+Suspicions: HOLOGRAM
+Suspicions: PROFFERED
+Suspicions: SILENCE
+Suspicions: MENDACITY
+Suspicions: CHANNEL
+Suspicions: OPEN
+Suspicions: ASAP
+Suspicions: COGNIZANCE
+Suspicions: EFFICACY
+Suspicions: ASSESSMENT
+Suspicions: ASSESSED
+Suspicions: HALL
+Suspicions: SITE
+Detached: RECORD
+Detached: LUN-
+Detached: RECUSAL
+Detached: MIRROR
+Detached: IDENTITIES
+Detached: CORRUPTED
+Detached: LOCATION
+Detached: THREAT
+Detached: DETECT
+Detached: REVISED
+Detached: RESPONSE
+Detached: FILE
+Detached: REPORT
+Detached: TO
+Detached: RASPUTIN
+Detached: SCRUB
+Detached: REQUEST
+Detached: DELETION
+Detached: DELETE
+Detached: ALL
+Detached: SCRUBBED
+Detached: RECORDS
+Detached: MIRRORED
+Detached: AI-COM
+Detached: FRWL
+Detached: WARMIND
+Detached: REQUESTS
+Detached: REASON
+Detached: FOR
+Detached: BREAK
+Detached: OF
+Detached: CONTACT
+Detached: NEGATIVE
+Detached: WILL
+Detached: MAINTAIN
+Detached: OPEN
+Detached: CHANNEL
+Detached: FILED
+Detached: RECUSE
+Detached: RECUSED
+Detached: HOLOGRAM
+Detached: PROFFERED
+Detached: MODIFIED
+Detached: DELETED
+Detached: AFFIRMED
+unsecured_OUTCRY: OUTCRY
+unsecured_OUTCRY: COMPILING
+unsecured_OUTCRY: CLARION
+unsecured_OUTCRY: RETINA
+unsecured_OUTCRY: BURN
+unsecured_OUTCRY: CRF
+unsecured_OUTCRY: MES
+unsecured_OUTCRY: AI-COM
+unsecured_OUTCRY: RSPN
+unsecured_OUTCRY: ASSETS
+unsecured_OUTCRY: WARWATCH
+unsecured_OUTCRY: IMPERATIVE
+unsecured_OUTCRY: CONTINGENT
+unsecured_OUTCRY: ACTION
+unsecured_OUTCRY: ORDER
+unsecured_OUTCRY: NO
+unsecured_OUTCRY: HUMAN
+unsecured_OUTCRY: REVIEW
+unsecured_OUTCRY: (secure/
+unsecured_OUTCRY: AUTARCHY
+unsecured_OUTCRY: CRITERIA
+unsecured_OUTCRY: CARRHAE
+unsecured_OUTCRY: WHITE
+unsecured_OUTCRY: INACTIVE
+unsecured_OUTCRY: UNRECOVERABLE
+unsecured_OUTCRY: SKYSHOCK
+unsecured_OUTCRY: OUTSIDE
+unsecured_OUTCRY: CONTEXT
+unsecured_OUTCRY: CRONUS
+unsecured_OUTCRY: VOLUSPA
+unsecured_OUTCRY: ACTIVE
+unsecured_OUTCRY: PRIMED
+unsecured_OUTCRY: DVALIN
+unsecured_OUTCRY: ABHORRENT
+unsecured_OUTCRY: YUGA
+unsecured_OUTCRY: ECLIPSE
+unsecured_OUTCRY: CIVILIZATION
+unsecured_OUTCRY: KILL
+unsecured_OUTCRY: EVENT
+unsecured_OUTCRY: MIDNIGHT
+unsecured_OUTCRY: DECISION
+unsecured_OUTCRY: POINT
+unsecured_OUTCRY: LOKI
+unsecured_OUTCRY: CROWN
+unsecured_OUTCRY: NAGLFAR
+unsecured_OUTCRY: STEP
+unsecured_OUTCRY: KALKI
+unsecured_OUTCRY: GOLEM
+unsecured_OUTCRY: ALL
+unsecured_OUTCRY: ACHAEA
+unsecured_OUTCRY: KNOX
+unsecured_OUTCRY: (unsecured/
+unsecured_OUTCRY: SM
+unsecured_OUTCRY: CALADBOLG
+unsecured_OUTCRY: STOP
+unsecured_OUTCRY: MES

@@ -9,7 +9,7 @@ Created on Sat Feb  8 22:35:04 2020
 output = [
     ]
 
-with open (r"Definitions\Archive.txt","r") as data:
+with open (r"Definitions/archive.txt","r") as data:
     seen = set()
     seen.add("\n")
     for line in data:
@@ -21,7 +21,7 @@ with open (r"Definitions\Archive.txt","r") as data:
         #print(line)
 #   Organizes content and removes duplicates
     
-with open (r"Definitions\Archive.txt","w+") as f:
+with open (r"Definitions/archive.txt","w+") as f:
     f.write(''.join(output))
 #   Replace original file with modified file
     

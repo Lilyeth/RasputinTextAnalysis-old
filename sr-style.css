@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana;
+}
+
+h2 {
+  color: rgb(124, 14, 6);
+  margin-left: 20px;
+}
+
+p {
+    margin-left: 30px;
+}
+
+a:link {
+  color: rgb(36, 58, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgba(8, 185, 255, 0.486);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 0, 140);
+  background-color: transparent;
+  text-decoration: underline;
+}
